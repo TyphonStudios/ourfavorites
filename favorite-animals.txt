@@ -1,3 +1,4 @@
+Zebra
 Cat
 Dog
 Chipmunk
